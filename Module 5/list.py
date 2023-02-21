@@ -1,0 +1,17 @@
+numbers=[1,23,5,6,7,89,4,6]
+
+# print(numbers[4])
+# print(numbers[-2])
+# print(numbers[1:5])
+# print(numbers[1:7:2])
+# print(numbers[:])
+# print(numbers[::-1])
+# numbers.append(45)
+# print(numbers[:])
+# numbers.insert(1,100)
+# print(numbers)
+# numbers.remove(100)
+# numbers.pop()
+# print(numbers)
+# numbers.clear()
+# print(numbers)
